@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Barbearia Dom Juan no veneno"
+git branch -M main
+git remote add origin https://github.com/SEUUSUARIO/barbearia-dom-juan.git
+git push -u origin main
